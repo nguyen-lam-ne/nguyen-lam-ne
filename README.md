@@ -1,6 +1,6 @@
 # 👋 Xin chào, tôi là Nguyễn Tùng Lâm!  
 
-<img src="file:///file:///![image](https://github.com/user-attachments/assets/48386f7b-c0d7-429f-8ef8-346efa9b7f0d)
+<img src="file:///![image](https://github.com/user-attachments/assets/48386f7b-c0d7-429f-8ef8-346efa9b7f0d)
 " width="300" align="right"/>
 
 ## 🚀 Giới thiệu  
