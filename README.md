@@ -44,4 +44,4 @@ Tôi là sinh viên năm nhất ngành **Công nghệ Thông tin** tại **Đạ
 
 🎯 **Luôn sẵn sàng học hỏi và phát triển! Nếu bạn có dự án thú vị, đừng ngần ngại kết nối với tôi.** 🚀  
 
-<img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/l3q2GD8H7y2lpgFTq/giphy.gif?cid=ecf05e47rtjhzrd26aj544kdx29bfsnyxxbf7ujdwdtwsuha&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
