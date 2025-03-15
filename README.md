@@ -31,17 +31,7 @@ Tôi là sinh viên năm nhất ngành **Công nghệ Thông tin** tại **Đạ
 🔹 **Công nghệ:** GitHub Pages, CSS, JavaScript  
 🔹 **Tính năng:**  
   - 🏠 Website cá nhân với thông tin, kỹ năng và các dự án  
-  - 📱 Giao diện tối ưu cho cả máy tính và điện thoại  
-
----
-
-### 🤖 3. [Chatbot Đơn Giản](https://github.com/your-username/chatbot-python)  
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250"/>
-
-🔹 **Công nghệ:** Python, NLTK, Tkinter  
-🔹 **Tính năng:**  
-  - 🤖 Chatbot cơ bản có thể trả lời các câu hỏi  
-  - 🧠 Ứng dụng xử lý ngôn ngữ tự nhiên (NLP)  
+  - 📱 Giao diện tối ưu cho cả máy tính và điện thoại   
 
 ---
 
