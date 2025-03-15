@@ -8,7 +8,7 @@ Tôi là sinh viên năm nhất ngành **Công nghệ Thông tin** tại **Đạ
 🔍 Luôn sẵn sàng học hỏi và tham gia các dự án thực tế.  
 
 ## 🔧 Kỹ năng  
-- **💻 Ngôn ngữ lập trình:** Python, HTML, CSS, JavaScript (cơ bản)  
+- **💻 Ngôn ngữ lập trình:** Python, CSS, JavaScript (cơ bản)  
 - **🛠 Công cụ:** Git, GitHub, VS Code
 - **✨ Lĩnh vực quan tâm:** Phát triển phần mềm, Xử lý ngôn ngữ tự nhiên (NLP), Lập trình ứng dụng  
 
