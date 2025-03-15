@@ -1,6 +1,7 @@
 # 👋 Xin chào, tôi là Nguyễn Tùng Lâm!  
 
-<img src="file:///C:/Users/nguyen%20lam/Desktop/lap-trinh-vien-la-gi-1-160393861088899196662.webp" width="300" align="right"/>
+<img src="file:///file:///![image](https://github.com/user-attachments/assets/48386f7b-c0d7-429f-8ef8-346efa9b7f0d)
+" width="300" align="right"/>
 
 ## 🚀 Giới thiệu  
 Tôi là sinh viên năm nhất ngành **Công nghệ Thông tin** tại **Đại học Sư phạm Hà Nội (HNUE)**.  
