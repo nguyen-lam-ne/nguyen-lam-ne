@@ -1,6 +1,6 @@
 # 👋 Xin chào, tôi là Nguyễn Tùng Lâm!  
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdpNmVzdWYybnp0cWJ1cGlqZXFoN2VqY3BuYXR1dzNra3l4bWE2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTI1ampmZ3R5bWE5amhqcmEzMzV5Zm5qdmttb3RwdHhxbGZicHRrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif" width="300" align="right"/>
 
 ## 🚀 Giới thiệu  
 Tôi là sinh viên năm nhất ngành **Công nghệ Thông tin** tại **Đại học Sư phạm Hà Nội (HNUE)**.  
@@ -9,14 +9,14 @@ Tôi là sinh viên năm nhất ngành **Công nghệ Thông tin** tại **Đạ
 
 ## 🔧 Kỹ năng  
 - **💻 Ngôn ngữ lập trình:** Python, HTML, CSS, JavaScript (cơ bản)  
-- **🛠 Công cụ:** Git, GitHub, VS Code, Jupyter Notebook  
+- **🛠 Công cụ:** Git, GitHub, VS Code
 - **✨ Lĩnh vực quan tâm:** Phát triển phần mềm, Xử lý ngôn ngữ tự nhiên (NLP), Lập trình ứng dụng  
 
 ---
 
 ## 📌 Dự án tiêu biểu  
 ### 📝 1. [Ứng dụng Quản lý Công Việc (To-do List)](https://github.com/your-username/todo-app)  
-<img src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif" width="250"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdpNmVzdWYybnp0cWJ1cGlqZXFoN2VqY3BuYXR1dzNra3l4bWE2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
 🔹 **Công nghệ:** Python, Tkinter, JSON  
 🔹 **Tính năng:**  
