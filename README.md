@@ -26,7 +26,7 @@ Tôi là sinh viên năm nhất ngành **Công nghệ Thông tin** tại **Đạ
 ---
 
 ### 🌐 2. [Website Giới Thiệu Cá Nhân](https://your-github-username.github.io/)  
-<img src="https://media.giphy.com/media/xUPGcgtKxm4PADy3Cw/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif?cid=790b76119fmle4nwbowzv7oy4xdu990ieczx264xap00ez6q&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
 
 🔹 **Công nghệ:** GitHub Pages, CSS, JavaScript  
 🔹 **Tính năng:**  
