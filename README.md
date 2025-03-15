@@ -1,7 +1,6 @@
 # 👋 Xin chào, tôi là Nguyễn Tùng Lâm!  
 
-<img src="file:///![image](https://github.com/user-attachments/assets/48386f7b-c0d7-429f-8ef8-346efa9b7f0d)
-" width="300" align="right"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdpNmVzdWYybnp0cWJ1cGlqZXFoN2VqY3BuYXR1dzNra3l4bWE2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right"/>
 
 ## 🚀 Giới thiệu  
 Tôi là sinh viên năm nhất ngành **Công nghệ Thông tin** tại **Đại học Sư phạm Hà Nội (HNUE)**.  
